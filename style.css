@@ -1,6 +1,9 @@
 h1{
      text-align: center;
-     color: red;
+     color: blue;
+}
+body{
+    background: linear-gradient(to right skyblue, to left orange);
 }
 
 
